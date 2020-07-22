@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81533441211",
+    "firebase_url": "https://hazel-pillar-277910.firebaseio.com",
+    "project_id": "hazel-pillar-277910",
+    "storage_bucket": "hazel-pillar-277910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81533441211:android:3aee524015620e2134059e",
+        "android_client_info": {
+          "package_name": "au.edu.canberra.mtfinalassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81533441211-0r86ka4gcrjnj31c5kmlla7vor5ukfap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWbGUsmjaMqrz0C3fz2LGppFLkc44TMUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81533441211-0r86ka4gcrjnj31c5kmlla7vor5ukfap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
